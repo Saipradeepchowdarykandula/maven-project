@@ -34,4 +34,4 @@ The -d flag runs the container in detached mode (in the background).
 The -p 8080:8080 option maps port 8080 on your local machine to port 8080 in the container.
 The --name dockercontainer assigns the name dockercontainer to the running container.
 mavenbuild is the name of the Docker image you built earlier.
-Once the container is running, you can access the HelloWorld servlet by navigating to "localhost:8080" in your web browser.
+Once the container is running, you can access the HelloWorld servlet by navigating to "ip address" in your web browser.
